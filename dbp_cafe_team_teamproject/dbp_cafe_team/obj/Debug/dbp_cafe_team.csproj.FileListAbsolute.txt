@@ -1,0 +1,201 @@
+C:\hong\teamproject\dbp_cafe_team\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe.config
+C:\hong\teamproject\dbp_cafe_team\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe
+C:\hong\teamproject\dbp_cafe_team\dbp_cafe_team\bin\Debug\dbp_cafe_team.pdb
+C:\hong\teamproject\dbp_cafe_team\dbp_cafe_team\bin\Debug\Oracle.DataAccess.dll
+C:\hong\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.AssemblyReference.cache
+C:\hong\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form1.resources
+C:\hong\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.form2.resources
+C:\hong\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.form3.resources
+C:\hong\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.Properties.Resources.resources
+C:\hong\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.GenerateResource.cache
+C:\hong\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CoreCompileInputs.cache
+C:\hong\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CopyComplete
+C:\hong\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.exe
+C:\hong\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.pdb
+C:\hong\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form4.resources
+C:\DBprog_practice\teamproject\teamproject\dbp_cafe_team\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe.config
+C:\DBprog_practice\teamproject\teamproject\dbp_cafe_team\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe
+C:\DBprog_practice\teamproject\teamproject\dbp_cafe_team\dbp_cafe_team\bin\Debug\dbp_cafe_team.pdb
+C:\DBprog_practice\teamproject\teamproject\dbp_cafe_team\dbp_cafe_team\bin\Debug\Oracle.DataAccess.dll
+C:\DBprog_practice\teamproject\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.AssemblyReference.cache
+C:\DBprog_practice\teamproject\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.SuggestedBindingRedirects.cache
+C:\DBprog_practice\teamproject\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form1.resources
+C:\DBprog_practice\teamproject\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form2.resources
+C:\DBprog_practice\teamproject\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form3.resources
+C:\DBprog_practice\teamproject\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form4.resources
+C:\DBprog_practice\teamproject\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.Properties.Resources.resources
+C:\DBprog_practice\teamproject\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.GenerateResource.cache
+C:\DBprog_practice\teamproject\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CoreCompileInputs.cache
+C:\DBprog_practice\teamproject\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CopyComplete
+C:\DBprog_practice\teamproject\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.exe
+C:\DBprog_practice\teamproject\teamproject\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.pdb
+C:\DBP\dbp_cafe_team\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe.config
+C:\DBP\dbp_cafe_team\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe
+C:\DBP\dbp_cafe_team\dbp_cafe_team\bin\Debug\dbp_cafe_team.pdb
+C:\DBP\dbp_cafe_team\dbp_cafe_team\bin\Debug\Oracle.DataAccess.dll
+C:\DBP\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.csprojAssemblyReference.cache
+C:\DBP\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form1.resources
+C:\DBP\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form2.resources
+C:\DBP\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form3.resources
+C:\DBP\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form4.resources
+C:\DBP\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.Properties.Resources.resources
+C:\DBP\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.GenerateResource.cache
+C:\DBP\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CoreCompileInputs.cache
+C:\DBP\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CopyComplete
+C:\DBP\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.exe
+C:\DBP\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.pdb
+C:\dbp_cafe_team\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe.config
+C:\dbp_cafe_team\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe
+C:\dbp_cafe_team\dbp_cafe_team\bin\Debug\dbp_cafe_team.pdb
+C:\dbp_cafe_team\dbp_cafe_team\bin\Debug\Oracle.DataAccess.dll
+C:\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.AssemblyReference.cache
+C:\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.SuggestedBindingRedirects.cache
+C:\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form1.resources
+C:\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form2.resources
+C:\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form3.resources
+C:\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form4.resources
+C:\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.Properties.Resources.resources
+C:\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.GenerateResource.cache
+C:\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CoreCompileInputs.cache
+C:\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CopyComplete
+C:\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.exe
+C:\dbp_cafe_team\dbp_cafe_team\obj\Debug\dbp_cafe_team.pdb
+C:\DBprog_practice\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe.config
+C:\DBprog_practice\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe
+C:\DBprog_practice\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.pdb
+C:\DBprog_practice\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\Oracle.DataAccess.dll
+C:\DBprog_practice\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.AssemblyReference.cache
+C:\DBprog_practice\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.SuggestedBindingRedirects.cache
+C:\DBprog_practice\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form1.resources
+C:\DBprog_practice\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form2.resources
+C:\DBprog_practice\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form3.resources
+C:\DBprog_practice\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form4.resources
+C:\DBprog_practice\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Properties.Resources.resources
+C:\DBprog_practice\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.GenerateResource.cache
+C:\DBprog_practice\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CoreCompileInputs.cache
+C:\DBprog_practice\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CopyComplete
+C:\DBprog_practice\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.exe
+C:\DBprog_practice\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.pdb
+C:\hong\teamproject\1127-datalist-디자인수정\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe.config
+C:\hong\teamproject\1127-datalist-디자인수정\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe
+C:\hong\teamproject\1127-datalist-디자인수정\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.pdb
+C:\hong\teamproject\1127-datalist-디자인수정\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\Oracle.DataAccess.dll
+C:\hong\teamproject\1127-datalist-디자인수정\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.AssemblyReference.cache
+C:\hong\teamproject\1127-datalist-디자인수정\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form1.resources
+C:\hong\teamproject\1127-datalist-디자인수정\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form2.resources
+C:\hong\teamproject\1127-datalist-디자인수정\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form3.resources
+C:\hong\teamproject\1127-datalist-디자인수정\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form4.resources
+C:\hong\teamproject\1127-datalist-디자인수정\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Properties.Resources.resources
+C:\hong\teamproject\1127-datalist-디자인수정\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.GenerateResource.cache
+C:\hong\teamproject\1127-datalist-디자인수정\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CoreCompileInputs.cache
+C:\hong\teamproject\1127-datalist-디자인수정\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CopyComplete
+C:\hong\teamproject\1127-datalist-디자인수정\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.exe
+C:\hong\teamproject\1127-datalist-디자인수정\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.pdb
+C:\hong\teamproject\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe.config
+C:\hong\teamproject\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe
+C:\hong\teamproject\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.pdb
+C:\hong\teamproject\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\Oracle.DataAccess.dll
+C:\hong\teamproject\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.AssemblyReference.cache
+C:\hong\teamproject\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form1.resources
+C:\hong\teamproject\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form2.resources
+C:\hong\teamproject\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form3.resources
+C:\hong\teamproject\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form4.resources
+C:\hong\teamproject\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Properties.Resources.resources
+C:\hong\teamproject\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.GenerateResource.cache
+C:\hong\teamproject\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CoreCompileInputs.cache
+C:\hong\teamproject\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CopyComplete
+C:\hong\teamproject\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.exe
+C:\hong\teamproject\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.pdb
+C:\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe.config
+C:\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe
+C:\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.pdb
+C:\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\Oracle.DataAccess.dll
+C:\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.AssemblyReference.cache
+C:\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.SuggestedBindingRedirects.cache
+C:\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form1.resources
+C:\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form2.resources
+C:\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form3.resources
+C:\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form4.resources
+C:\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Properties.Resources.resources
+C:\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.GenerateResource.cache
+C:\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CoreCompileInputs.cache
+C:\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CopyComplete
+C:\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.exe
+C:\dbp-teamproject-55555555\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.pdb
+C:\DBP\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe.config
+C:\DBP\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe
+C:\DBP\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.pdb
+C:\DBP\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\Oracle.DataAccess.dll
+C:\DBP\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csprojAssemblyReference.cache
+C:\DBP\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form1.resources
+C:\DBP\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form2.resources
+C:\DBP\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form3.resources
+C:\DBP\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form4.resources
+C:\DBP\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Properties.Resources.resources
+C:\DBP\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.GenerateResource.cache
+C:\DBP\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CoreCompileInputs.cache
+C:\DBP\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CopyComplete
+C:\DBP\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.exe
+C:\DBP\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.pdb
+C:\hong\새 폴더\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.AssemblyReference.cache
+C:\hong\새 폴더\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form1.resources
+C:\hong\새 폴더\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form2.resources
+C:\hong\새 폴더\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form3.resources
+C:\hong\새 폴더\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form4.resources
+C:\hong\새 폴더\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Properties.Resources.resources
+C:\hong\새 폴더\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.GenerateResource.cache
+C:\hong\새 폴더\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CoreCompileInputs.cache
+C:\hong\새 폴더\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.exe
+C:\hong\새 폴더\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.pdb
+C:\hong\새 폴더\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe.config
+C:\hong\새 폴더\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe
+C:\hong\새 폴더\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.pdb
+C:\hong\새 폴더\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\Oracle.DataAccess.dll
+C:\hong\새 폴더\dbp-teamproject-7\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CopyComplete
+C:\dbp-teamproject-8(카드)\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe.config
+C:\dbp-teamproject-8(카드)\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe
+C:\dbp-teamproject-8(카드)\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.pdb
+C:\dbp-teamproject-8(카드)\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\Oracle.DataAccess.dll
+C:\dbp-teamproject-8(카드)\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.AssemblyReference.cache
+C:\dbp-teamproject-8(카드)\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.SuggestedBindingRedirects.cache
+C:\dbp-teamproject-8(카드)\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form1.resources
+C:\dbp-teamproject-8(카드)\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form2.resources
+C:\dbp-teamproject-8(카드)\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form3.resources
+C:\dbp-teamproject-8(카드)\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form4.resources
+C:\dbp-teamproject-8(카드)\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Properties.Resources.resources
+C:\dbp-teamproject-8(카드)\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.GenerateResource.cache
+C:\dbp-teamproject-8(카드)\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CoreCompileInputs.cache
+C:\dbp-teamproject-8(카드)\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CopyComplete
+C:\dbp-teamproject-8(카드)\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.exe
+C:\dbp-teamproject-8(카드)\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.pdb
+C:\DBprog_practice\dbp-teamproject-9\dbp-teamproject-9\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe.config
+C:\DBprog_practice\dbp-teamproject-9\dbp-teamproject-9\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe
+C:\DBprog_practice\dbp-teamproject-9\dbp-teamproject-9\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.pdb
+C:\DBprog_practice\dbp-teamproject-9\dbp-teamproject-9\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\Oracle.DataAccess.dll
+C:\DBprog_practice\dbp-teamproject-9\dbp-teamproject-9\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.AssemblyReference.cache
+C:\DBprog_practice\dbp-teamproject-9\dbp-teamproject-9\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.SuggestedBindingRedirects.cache
+C:\DBprog_practice\dbp-teamproject-9\dbp-teamproject-9\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form1.resources
+C:\DBprog_practice\dbp-teamproject-9\dbp-teamproject-9\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form2.resources
+C:\DBprog_practice\dbp-teamproject-9\dbp-teamproject-9\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form3.resources
+C:\DBprog_practice\dbp-teamproject-9\dbp-teamproject-9\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form4.resources
+C:\DBprog_practice\dbp-teamproject-9\dbp-teamproject-9\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Properties.Resources.resources
+C:\DBprog_practice\dbp-teamproject-9\dbp-teamproject-9\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.GenerateResource.cache
+C:\DBprog_practice\dbp-teamproject-9\dbp-teamproject-9\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CoreCompileInputs.cache
+C:\DBprog_practice\dbp-teamproject-9\dbp-teamproject-9\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CopyComplete
+C:\DBprog_practice\dbp-teamproject-9\dbp-teamproject-9\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.exe
+C:\DBprog_practice\dbp-teamproject-9\dbp-teamproject-9\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.pdb
+C:\hong\새 폴더\찐찐찐찐\dbp-teamproject-10\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe.config
+C:\hong\새 폴더\찐찐찐찐\dbp-teamproject-10\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.exe
+C:\hong\새 폴더\찐찐찐찐\dbp-teamproject-10\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\dbp_cafe_team.pdb
+C:\hong\새 폴더\찐찐찐찐\dbp-teamproject-10\dbp_cafe_team_teamproject3\dbp_cafe_team\bin\Debug\Oracle.DataAccess.dll
+C:\hong\새 폴더\찐찐찐찐\dbp-teamproject-10\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.AssemblyReference.cache
+C:\hong\새 폴더\찐찐찐찐\dbp-teamproject-10\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form1.resources
+C:\hong\새 폴더\찐찐찐찐\dbp-teamproject-10\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form2.resources
+C:\hong\새 폴더\찐찐찐찐\dbp-teamproject-10\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form3.resources
+C:\hong\새 폴더\찐찐찐찐\dbp-teamproject-10\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Form4.resources
+C:\hong\새 폴더\찐찐찐찐\dbp-teamproject-10\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.Properties.Resources.resources
+C:\hong\새 폴더\찐찐찐찐\dbp-teamproject-10\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.GenerateResource.cache
+C:\hong\새 폴더\찐찐찐찐\dbp-teamproject-10\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CoreCompileInputs.cache
+C:\hong\새 폴더\찐찐찐찐\dbp-teamproject-10\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.csproj.CopyComplete
+C:\hong\새 폴더\찐찐찐찐\dbp-teamproject-10\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.exe
+C:\hong\새 폴더\찐찐찐찐\dbp-teamproject-10\dbp_cafe_team_teamproject3\dbp_cafe_team\obj\Debug\dbp_cafe_team.pdb
